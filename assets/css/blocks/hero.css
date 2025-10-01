@@ -31,3 +31,9 @@
     text-decoration: underline;
     text-decoration-skip-ink: none;
 }
+
+.hero__button span {
+    border: 7px solid transparent;
+    display: inline-flex;
+    border-left: 7px solid #ffd723;
+}
