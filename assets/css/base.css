@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var(--font-family);
+}
+
+button {
+    cursor: pointer;
+}
+
+.container {
+    max-width: 1111px;
+    margin: 0 auto;
+}
+
+.header__hero-inner {
+    background-image: url("../images/header_hero_bg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

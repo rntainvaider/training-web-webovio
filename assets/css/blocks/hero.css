@@ -1,0 +1,39 @@
+.hero {
+    padding-bottom: 221px;
+}
+
+.hero__subtitle {
+    display: inline-block;
+    font-size: 14px;
+    color: #fff;
+    margin-bottom: 22px;
+}
+
+.hero__title {
+    max-width: 600px;
+    margin-bottom: 24px;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 123%;
+    color: #fff;
+}
+
+.hero__description {
+    max-width: 580px;
+    margin-bottom: 45px;
+    line-height: 162%;
+    color: #fff;
+}
+
+.hero__button {
+    font-weight: 700;
+    color: #ffd723;
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+}
+
+.hero__button span {
+    border: 7px solid transparent;
+    display: inline-flex;
+    border-left: 7px solid #ffd723;
+}
