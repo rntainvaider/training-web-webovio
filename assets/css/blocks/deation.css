@@ -1,0 +1,39 @@
+.deation {}
+
+.container {}
+
+.deation__title {
+    margin-bottom: 87px;
+}
+
+.title__page {}
+
+.deation__list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.deation__item {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    max-width: 194px;
+}
+
+.deation__item-title {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 142%;
+    text-transform: uppercase;
+    color: #4d533c;
+}
+
+.deation__item-description {
+    font-size: 14px;
+    line-height: 186%;
+    color: rgba(33, 56, 66, 0.6);
+}
+
+.deation__item-link {
+    margin-top: auto;
+}

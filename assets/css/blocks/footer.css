@@ -1,0 +1,26 @@
+.footer {}
+
+.container {}
+
+.footer__information {
+    display: flex;
+    justify-content: space-between;
+    max-width: 455px;
+}
+
+.footer__information-block {}
+
+.footer__information-name {
+    line-height: 250%;
+    color: #b6c197;
+}
+
+.footer__information-text {
+    display: block;
+    font-weight: 700;
+    line-height: 250%;
+    /* color: #fff; */
+    
+}
+
+.footer__information-text {}
